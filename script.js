@@ -151,7 +151,7 @@ const data = {
         { title: "VIP", sub: "14K Views • 12 mins", img: "https://i.postimg.cc/QCb9F1gC/1.webp" },
         { title: "VIP", sub: "23K Views • 18 mins", img: "https://i.postimg.cc/FzZdY3bv/1-460.jpg" },
         { title: "VIP", sub: "8K Views • 9 mins", img: "https://i.postimg.cc/8CkXn8P1/xv-30-t.jpg" },
-        { title: "VIP", sub: "3K Views • 24 mins", img: "https://i.postimg.cc/Y0G3vYN9/2560x1440-204.webp" },
+        { title: "VIP", sub: "3K Views • 24 mins", img: "https://i.postimg.cc/T1Qp0Wtt/xn-24-t.jpg" },
         { title: "VIP", sub: "9K Views • 7 mins", img: "https://i.postimg.cc/kGc62KNg/6293659-90499e3-320x.jpg" },
         { title: "VIP", sub: "5K Views • 45 mins", img: "https://i.postimg.cc/NF49Km8m/alia-starr-8.jpg" },
         { title: "VIP", sub: "7K Views • 15 mins", img: "https://i.postimg.cc/L5Rg4NPs/images-(38).jpg" },
