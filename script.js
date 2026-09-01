@@ -150,7 +150,7 @@ const data = {
     videos: [
         { title: "VIP", sub: "14K Views • 12 mins", img: "https://i.postimg.cc/QCb9F1gC/1.webp" },
         { title: "VIP", sub: "23K Views • 18 mins", img: "https://i.postimg.cc/FzZdY3bv/1-460.jpg" },
-        { title: "VIP", sub: "8K Views • 9 mins", img: "https://i.postimg.cc/cCmgvw71/1280x720-17339428.webp" },
+        { title: "VIP", sub: "8K Views • 9 mins", img: "https://i.postimg.cc/8CkXn8P1/xv-30-t.jpg" },
         { title: "VIP", sub: "3K Views • 24 mins", img: "https://i.postimg.cc/Y0G3vYN9/2560x1440-204.webp" },
         { title: "VIP", sub: "9K Views • 7 mins", img: "https://i.postimg.cc/kGc62KNg/6293659-90499e3-320x.jpg" },
         { title: "VIP", sub: "5K Views • 45 mins", img: "https://i.postimg.cc/NF49Km8m/alia-starr-8.jpg" },
@@ -167,7 +167,7 @@ const data = {
         { title: "VIP", sub: "8K Views • 4 mins", img: "https://i.postimg.cc/6q028nV4/xn-30-p.jpg" },
         { title: "VIP", sub: "2K Views • 28 mins", img: "https://i.postimg.cc/BbgLjH5f/xn-30-t.jpg" },
         { title: "VIP", sub: "13K Views • 13 mins", img: "https://i.postimg.cc/6q028nV2/xv-30-p.jpg" },
-        { title: "VIP", sub: "18K Views • 22 mins", img: "https://i.postimg.cc/QCb9F1gC/1.webp" }
+        { title: "VIP", sub: "18K Views • 22 mins", img: "https://i.postimg.cc/cJD9pD6V/images-(32).jpg" }
     ],
     streams: [
         { title: "live", sub: "94 Watching", isLive: true, img: "https://i.postimg.cc/g2JX0gMz/2560x1440-201.webp" },
