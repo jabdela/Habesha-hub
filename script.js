@@ -38,7 +38,7 @@ const translationDictionary = {
         uploadLabel: "<i class='fa-solid fa-image'></i> Upload Payment Screenshot",
         verifyPayBtn: "<i class='fa-solid fa-shield-halved'></i> Check My Screenshot",
         aboutTitle: "About Us",
-        aboutText: "Welcome to ሀበሻ Hub VIP Portal. Your premier hub for exclusive entertainment, models, group discussions, and live streaming. Upgrade to VIP for unlimited access."
+        aboutText: "Welcome to ሀበሻ Hub VIP. Your premier hub for exclusive entertainment, models,sex group discussions, and sex live streaming. Upgrade to VIP for unlimited access."
     },
     am: {
         navCreators: "ሞዴሎች",
@@ -148,75 +148,75 @@ const data = {
         { title: "ጀላ ጠቢወች", sub: "90 Members", img: "https://i.postimg.cc/jdGFSf57/a628b8f187893999fd7903c7a729945a.jpg" }
     ],
     videos: [
-        { title: "hard core", sub: "14K Views • 12 mins", img: "https://i.postimg.cc/QCb9F1gC/1.webp" },
-        { title: "teen anal", sub: "23K Views • 18 mins", img: "https://i.postimg.cc/FzZdY3bv/1-460.jpg" },
-        { title: "big cook", sub: "8K Views • 9 mins", img: "https://i.postimg.cc/cCmgvw71/1280x720-17339428.webp" },
-        { title: "ejaculation", sub: "3K Views • 24 mins", img: "https://i.postimg.cc/Y0G3vYN9/2560x1440-204.webp" },
-        { title: "africa", sub: "9K Views • 7 mins", img: "https://i.postimg.cc/kGc62KNg/6293659-90499e3-320x.jpg" },
-        { title: "big tit", sub: "5K Views • 45 mins", img: "https://i.postimg.cc/NF49Km8m/alia-starr-8.jpg" },
-        { title: "black pussy", sub: "7K Views • 15 mins", img: "https://i.postimg.cc/L5Rg4NPs/images-(38).jpg" },
-        { title: "anal", sub: "19K Views • 32 mins", img: "https://i.postimg.cc/SRqYQD9Q/images-(39).jpg" },
-        { title: "habesha wesib", sub: "20K Views • 14 mins", img: "https://i.postimg.cc/Y0kL2bFt/images-(40).jpg" },
-        { title: "massage", sub: "4K Views • 5 mins", img: "https://i.postimg.cc/WzjqpXZj/images-(41).jpg" },
-        { title: "vibrator", sub: "6K Views • 21 mins", img: "https://i.postimg.cc/NFY2GpXc/images-(42).jpg" },
-        { title: "teen", sub: "15K Views • 11 mins", img: "https://i.postimg.cc/mkR1Z894/images-(43).jpg" },
-        { title: "big tits", sub: "3K Views • 16 mins", img: "https://i.postimg.cc/GtQ84GPy/IMG-20260831-151829-206.jpg" },
-        { title: "summer sex", sub: "12K Views • 50 mins", img: "https://i.postimg.cc/8cHJ7Mdr/IMG-20260831-151841-788.jpg" },
-        { title: "step mom", sub: "3K Views • 19 mins", img: "https://i.postimg.cc/WznFdgms/Lily-Starfire-Big-Boobie-Babe-In-Hot-Red-Bikini-All-Black-X8.jpg" },
-        { title: "hard core", sub: "4K Views • 10 mins", img: "https://i.postimg.cc/7hVG501b/preview-mp4.jpg" },
-        { title: "teen", sub: "8K Views • 4 mins", img: "https://i.postimg.cc/6q028nV4/xn-30-p.jpg" },
-        { title: "oiled", sub: "2K Views • 28 mins", img: "https://i.postimg.cc/BbgLjH5f/xn-30-t.jpg" },
-        { title: "arab", sub: "13K Views • 13 mins", img: "https://i.postimg.cc/6q028nV2/xv-30-p.jpg" },
-        { title: "african", sub: "18K Views • 22 mins", img: "https://i.postimg.cc/QCb9F1gC/1.webp" }
+        { title: "VIP", sub: "14K Views • 12 mins", img: "https://i.postimg.cc/QCb9F1gC/1.webp" },
+        { title: "VIP", sub: "23K Views • 18 mins", img: "https://i.postimg.cc/FzZdY3bv/1-460.jpg" },
+        { title: "VIP", sub: "8K Views • 9 mins", img: "https://i.postimg.cc/cCmgvw71/1280x720-17339428.webp" },
+        { title: "VIP", sub: "3K Views • 24 mins", img: "https://i.postimg.cc/Y0G3vYN9/2560x1440-204.webp" },
+        { title: "VIP", sub: "9K Views • 7 mins", img: "https://i.postimg.cc/kGc62KNg/6293659-90499e3-320x.jpg" },
+        { title: "VIP", sub: "5K Views • 45 mins", img: "https://i.postimg.cc/NF49Km8m/alia-starr-8.jpg" },
+        { title: "VIP", sub: "7K Views • 15 mins", img: "https://i.postimg.cc/L5Rg4NPs/images-(38).jpg" },
+        { title: "VIP", sub: "19K Views • 32 mins", img: "https://i.postimg.cc/SRqYQD9Q/images-(39).jpg" },
+        { title: "VIP", sub: "20K Views • 14 mins", img: "https://i.postimg.cc/Y0kL2bFt/images-(40).jpg" },
+        { title: "VIP", sub: "4K Views • 5 mins", img: "https://i.postimg.cc/WzjqpXZj/images-(41).jpg" },
+        { title: "VIP", sub: "6K Views • 21 mins", img: "https://i.postimg.cc/NFY2GpXc/images-(42).jpg" },
+        { title: "VIP", sub: "15K Views • 11 mins", img: "https://i.postimg.cc/mkR1Z894/images-(43).jpg" },
+        { title: "VIP", sub: "3K Views • 16 mins", img: "https://i.postimg.cc/GtQ84GPy/IMG-20260831-151829-206.jpg" },
+        { title: "VIP", sub: "12K Views • 50 mins", img: "https://i.postimg.cc/8cHJ7Mdr/IMG-20260831-151841-788.jpg" },
+        { title: "VIP", sub: "3K Views • 19 mins", img: "https://i.postimg.cc/WznFdgms/Lily-Starfire-Big-Boobie-Babe-In-Hot-Red-Bikini-All-Black-X8.jpg" },
+        { title: "VIP", sub: "4K Views • 10 mins", img: "https://i.postimg.cc/7hVG501b/preview-mp4.jpg" },
+        { title: "VIP", sub: "8K Views • 4 mins", img: "https://i.postimg.cc/6q028nV4/xn-30-p.jpg" },
+        { title: "VIP", sub: "2K Views • 28 mins", img: "https://i.postimg.cc/BbgLjH5f/xn-30-t.jpg" },
+        { title: "VIP", sub: "13K Views • 13 mins", img: "https://i.postimg.cc/6q028nV2/xv-30-p.jpg" },
+        { title: "VIP", sub: "18K Views • 22 mins", img: "https://i.postimg.cc/QCb9F1gC/1.webp" }
     ],
     streams: [
-        { title: "Mekdi Live", sub: "94 Watching", isLive: true, img: "https://i.postimg.cc/g2JX0gMz/2560x1440-201.webp" },
-        { title: "Saron Chat", sub: "85 Watching", isLive: true, img: "https://i.postimg.cc/9F1wV6BX/1661009256-8-titis-org-p-ethiopia-nude-girls-chastnaya-erotika-10.jpg" },
-        { title: "Evening Stream", sub: "7 Watching", isLive: true, img: "https://i.postimg.cc/bNLS87Rr/2560x1440-206.webp" },
-        { title: "Addis Night Live", sub: "44 Watching", isLive: true, img: "https://i.postimg.cc/ZKjvZGLW/2560x1440-208.webp" },
-        { title: "Samri Q&A", sub: "10 Watching", isLive: true, img: "https://i.postimg.cc/7YXJDFNH/2560x1440-222.webp" },
-        { title: "Makiba Show", sub: "3 Watching", isLive: true, img: "https://i.postimg.cc/gk4LdCKw/habesha-barbie-0029.jpg" },
-        { title: "Bamlak VIP Live", sub: "42 Watching", isLive: true, img: "https://i.postimg.cc/2S6b50Hz/images-(45).jpg" },
-        { title: "Late Night Stream", sub: "11 Watching", isLive: true, img: "https://i.postimg.cc/BQNPsrCP/images-(46).jpg" },
-        { title: "Beti Live", sub: "74 Watching", isLive: true, img: "https://i.postimg.cc/SNVYqBGm/images-(47).jpg" },
-        { title: "Kal Session", sub: "18 Watching", isLive: true, img: "https://i.postimg.cc/Nfb2Y3xg/images-(48).jpg" },
-        { title: "Weekend Hangout", sub: "102 Watching", isLive: true, img: "https://i.postimg.cc/g2JX0gMz/2560x1440-201.webp" },
-        { title: "Studio Live", sub: "61 Watching", isLive: true, img: "https://i.postimg.cc/9F1wV6BX/1661009256-8-titis-org-p-ethiopia-nude-girls-chastnaya-erotika-10.jpg" },
-        { title: "VIP Exclusive Live", sub: "310 Watching", isLive: true, img: "https://i.postimg.cc/bNLS87Rr/2560x1440-206.webp" },
-        { title: "Model Special", sub: "54 Watching", isLive: true, img: "https://i.postimg.cc/ZKjvZGLW/2560x1440-208.webp" },
-        { title: "Music Session", sub: "12 Watching", isLive: true, img: "https://i.postimg.cc/7YXJDFNH/2560x1440-222.webp" },
-        { title: "Chill & Chat", sub: "29 Watching", isLive: true, img: "https://i.postimg.cc/gk4LdCKw/habesha-barbie-0029.jpg" },
-        { title: "Q&A Special", sub: "88 Watching", isLive: true, img: "https://i.postimg.cc/2S6b50Hz/images-(45).jpg" },
-        { title: "Night Vibe", sub: "15 Watching", isLive: true, img: "https://i.postimg.cc/BQNPsrCP/images-(46).jpg" },
-        { title: "Habesha Hub Broadcast", sub: "201 Watching", isLive: true, img: "https://i.postimg.cc/SNVYqBGm/images-(47).jpg" },
-        { title: "Final Live", sub: "45 Watching", isLive: true, img: "https://i.postimg.cc/Nfb2Y3xg/images-(48).jpg" }
+        { title: "live", sub: "94 Watching", isLive: true, img: "https://i.postimg.cc/g2JX0gMz/2560x1440-201.webp" },
+        { title: "live", sub: "85 Watching", isLive: true, img: "https://i.postimg.cc/9F1wV6BX/1661009256-8-titis-org-p-ethiopia-nude-girls-chastnaya-erotika-10.jpg" },
+        { title: "live", sub: "7 Watching", isLive: true, img: "https://i.postimg.cc/bNLS87Rr/2560x1440-206.webp" },
+        { title: "live", sub: "44 Watching", isLive: true, img: "https://i.postimg.cc/ZKjvZGLW/2560x1440-208.webp" },
+        { title: "live", sub: "10 Watching", isLive: true, img: "https://i.postimg.cc/7YXJDFNH/2560x1440-222.webp" },
+        { title: "live", sub: "3 Watching", isLive: true, img: "https://i.postimg.cc/gk4LdCKw/habesha-barbie-0029.jpg" },
+        { title: "live", sub: "42 Watching", isLive: true, img: "https://i.postimg.cc/2S6b50Hz/images-(45).jpg" },
+        { title: "live ", sub: "11 Watching", isLive: true, img: "https://i.postimg.cc/BQNPsrCP/images-(46).jpg" },
+        { title: "live", sub: "74 Watching", isLive: true, img: "https://i.postimg.cc/SNVYqBGm/images-(47).jpg" },
+        { title: "live", sub: "18 Watching", isLive: true, img: "https://i.postimg.cc/Nfb2Y3xg/images-(48).jpg" },
+        { title: "live", sub: "102 Watching", isLive: true, img: "https://i.postimg.cc/g2JX0gMz/2560x1440-201.webp" },
+        { title: "live", sub: "61 Watching", isLive: true, img: "https://i.postimg.cc/9F1wV6BX/1661009256-8-titis-org-p-ethiopia-nude-girls-chastnaya-erotika-10.jpg" },
+        { title: "live", sub: "310 Watching", isLive: true, img: "https://i.postimg.cc/bNLS87Rr/2560x1440-206.webp" },
+        { title: "live", sub: "54 Watching", isLive: true, img: "https://i.postimg.cc/ZKjvZGLW/2560x1440-208.webp" },
+        { title: "live", sub: "12 Watching", isLive: true, img: "https://i.postimg.cc/7YXJDFNH/2560x1440-222.webp" },
+        { title: "live", sub: "29 Watching", isLive: true, img: "https://i.postimg.cc/gk4LdCKw/habesha-barbie-0029.jpg" },
+        { title: "live", sub: "88 Watching", isLive: true, img: "https://i.postimg.cc/2S6b50Hz/images-(45).jpg" },
+        { title: "live", sub: "15 Watching", isLive: true, img: "https://i.postimg.cc/BQNPsrCP/images-(46).jpg" },
+        { title: "live", sub: "201 Watching", isLive: true, img: "https://i.postimg.cc/SNVYqBGm/images-(47).jpg" },
+        { title: "live", sub: "45 Watching", isLive: true, img: "https://i.postimg.cc/Nfb2Y3xg/images-(48).jpg" }
     ]
 };
 
 // Restricted Strictly to 2 Models Only
 const mockChats = [
     {
-        id: "selam",
-        name: "Selam",
+        id: "miya2",
+        name: "miya",
         subTextUnread: "new message",
-        subTextRead: "Welcome to Habesha Hub! Believe in yourself...",
+        subTextRead: "ሰላም እንዴት ነክ እኔን መብዳት ትፈልጋለክ? 🥹",
         time: "10:42 AM",
         img: "https://i.postimg.cc/xCgYV8j4/blackteensubmit-model-1.jpg",
         hasUnread: true,
         messages: [
-            { type: "received", text: "Welcome to Habesha Hub! Believe in yourself and keep shining every single day!", time: "10:42 AM" }
+            { type: "received", text: "ሰላም እንዴት ነክ እኔን መብዳት ትፈልጋለክ? 🥹", time: "10:42 AM" }
         ]
     },
     {
-        id: "frehiwot",
-        name: "Frehiwot",
+        id: "samri_4",
+        name: "samrawit",
         subTextUnread: "new message",
-        subTextRead: "Hey! Never give up on your dreams. Great...",
+        subTextRead: "Hey bb sex ማድረግ ከፈለክ አናግረኝ ",
         time: "10:45 AM",
         img: "https://i.postimg.cc/9M1VH0Xk/xn-9-t.jpg",
         hasUnread: true,
         messages: [
-            { type: "received", text: "Hey! Never give up on your dreams. Great things take time to build!", time: "10:45 AM" }
+            { type: "received", text: "Hey bb sex ማድረግ ከፈለክ አናግረኝ ", time: "10:45 AM" }
         ]
     }
 ];
