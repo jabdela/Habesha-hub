@@ -179,16 +179,16 @@ const data = {
         { title: "live ", sub: "11 Watching", isLive: true, img: "https://i.postimg.cc/BQNPsrCP/images-(46).jpg" },
         { title: "live", sub: "74 Watching", isLive: true, img: "https://i.postimg.cc/SNVYqBGm/images-(47).jpg" },
         { title: "live", sub: "18 Watching", isLive: true, img: "https://i.postimg.cc/Nfb2Y3xg/images-(48).jpg" },
-        { title: "live", sub: "102 Watching", isLive: true, img: "https://i.postimg.cc/g2JX0gMz/2560x1440-201.webp" },
-        { title: "live", sub: "61 Watching", isLive: true, img: "https://i.postimg.cc/9F1wV6BX/1661009256-8-titis-org-p-ethiopia-nude-girls-chastnaya-erotika-10.jpg" },
-        { title: "live", sub: "310 Watching", isLive: true, img: "https://i.postimg.cc/bNLS87Rr/2560x1440-206.webp" },
-        { title: "live", sub: "54 Watching", isLive: true, img: "https://i.postimg.cc/ZKjvZGLW/2560x1440-208.webp" },
-        { title: "live", sub: "12 Watching", isLive: true, img: "https://i.postimg.cc/7YXJDFNH/2560x1440-222.webp" },
-        { title: "live", sub: "29 Watching", isLive: true, img: "https://i.postimg.cc/gk4LdCKw/habesha-barbie-0029.jpg" },
-        { title: "live", sub: "88 Watching", isLive: true, img: "https://i.postimg.cc/2S6b50Hz/images-(45).jpg" },
-        { title: "live", sub: "15 Watching", isLive: true, img: "https://i.postimg.cc/BQNPsrCP/images-(46).jpg" },
-        { title: "live", sub: "201 Watching", isLive: true, img: "https://i.postimg.cc/SNVYqBGm/images-(47).jpg" },
-        { title: "live", sub: "45 Watching", isLive: true, img: "https://i.postimg.cc/Nfb2Y3xg/images-(48).jpg" }
+        { title: "live", sub: "102 Watching", isLive: true, img: "https://i.postimg.cc/zfqJp6S7/14717665-128-fd42.jpg" },
+        { title: "live", sub: "61 Watching", isLive: true, img: "https://i.postimg.cc/W3HTN3R5/2560x1440-216.webp" },
+        { title: "live", sub: "310 Watching", isLive: true, img: "https://i.postimg.cc/yN7VntXR/2560x1440-219.webp" },
+        { title: "live", sub: "54 Watching", isLive: true, img: "https://i.postimg.cc/V6Vmf6yW/2560x1440-237.webp" },
+        { title: "live", sub: "12 Watching", isLive: true, img: "https://i.postimg.cc/6QzBPcYf/images-(47).jpg" },
+        { title: "live", sub: "29 Watching", isLive: true, img: "https://i.postimg.cc/q7pkQSXk/orig-9.webp" },
+        { title: "live", sub: "88 Watching", isLive: true, img: "https://i.postimg.cc/W4Ssy8Xr/preview-mp4.webp" },
+        { title: "live", sub: "15 Watching", isLive: true, img: "https://i.postimg.cc/vBNbYBRh/xv-21-t.jpg" },
+        { title: "live", sub: "201 Watching", isLive: true, img: "https://i.postimg.cc/R0vMGyQS/xv-8-t.jpg" },
+        { title: "live", sub: "45 Watching", isLive: true, img: "https://i.postimg.cc/PxxdnD7f/1703117275-titis-org-p-big-black-cunt-erotika-pinterest-58.jpg" }
     ]
 };
 
