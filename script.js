@@ -200,7 +200,7 @@ const mockChats = [
         subTextUnread: "new message",
         subTextRead: "ሰላም እንዴት ነክ ውዴ ቀንዝሮብኛል እኔን መብዳት ትፈልጋለክ? 🥹",
         time: "today",
-        img: "https://i.postimg.cc/xCgYV8j4/blackteensubmit-model-1.jpg",
+        img: "https://i.postimg.cc/L5v1xLGZ/images-(49).jpg",
         hasUnread: true,
         messages: [
             { type: "received", text: "ሰላም እንዴት ነክ እኔን መብዳት ትፈልጋለክ? 🥹", time: "today" }
