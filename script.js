@@ -84,14 +84,14 @@ const DEFAULT_AVATAR = "https://i.postimg.cc/mD3m5x3Y/default-avatar.png";
 
 const data = {
     creators: [
-        { title: "Selam", sub: "196 Followers", img: "https://i.postimg.cc/xCgYV8j4/blackteensubmit-model-1.jpg", isOnline: true },
+        { title: "Selam", sub: "196 Followers", img: "https://i.postimg.cc/CLQ0bdd6/images-(48).jpg", isOnline: true },
         { title: "Hellen", sub: "750 Followers", img: "https://i.postimg.cc/Y98kB02V/c0925a4a731a3be6d8a120c0e265bb3f.jpg", isOnline: false },
         { title: "Rahel", sub: "633 Followers", img: "https://i.postimg.cc/BnvSSxP6/1788172128809.jpg", isOnline: true },
         { title: "Bethlehem", sub: "1.2k Followers", img: "https://i.postimg.cc/wBy9JgV3/1788171869754.jpg", isOnline: true },
         { title: "Eden", sub: "707 Followers", img: "https://i.postimg.cc/vTzyMBQP/1788171877524.jpg", isOnline: false },
         { title: "Meron", sub: "95 Followers", img: "https://i.postimg.cc/gJ4dbjcS/iloveblackgirls-model-5.jpg", isOnline: true },
         { title: "Tigist", sub: "1.1k Followers", img: "https://i.postimg.cc/xdJ9HnRk/1788171906232.jpg", isOnline: false },
-        { title: "Frehiwot", sub: "5k Followers", img: "https://i.postimg.cc/9M1VH0Xk/xn-9-t.jpg", isOnline: true },
+        { title: "Frehiwot", sub: "5k Followers", img: "https://i.postimg.cc/rFPT5zzf/5af67e1b25e7acdb567cf39ee8873025.jpg", isOnline: true },
         { title: "Martha", sub: "580 Followers", img: "https://i.postimg.cc/1XHSPt9K/1788171917150.jpg", isOnline: true },
         { title: "Yordanos", sub: "5.1k Followers", img: "https://i.postimg.cc/qqLr0Rk8/1788171934642.jpg", isOnline: false },
         { title: "Feven", sub: "934 Followers", img: "https://i.postimg.cc/WznVj32h/1788171957379.jpg", isOnline: true },
